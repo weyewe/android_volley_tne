@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/willy/AndroidStudioProjects/android_volley_examples/app/libs/khandroid-httpclient-4.2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="833efd491363b9391340d073bff8d95c85ff7733">
+        <dex dex="/home/willy/AndroidStudioProjects/android_volley_examples/app/build/intermediates/pre-dexed/debug/khandroid-httpclient-4.2.3-d0083fe2f7fa2ae290b28d935a2b9abe79c95d22.jar" />
+    </item>
+    <item
+        jar="/home/willy/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="/home/willy/AndroidStudioProjects/android_volley_examples/app/build/intermediates/pre-dexed/debug/support-v4-19.0.1-d7c94af8e36f864f6bcedd594a689e1031ade668.jar" />
+    </item>
+    <item
+        jar="/home/willy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/willy/AndroidStudioProjects/android_volley_examples/app/build/intermediates/pre-dexed/debug/gson-2.2.4-481fb9fd3f69381972c08b298b3fbcc06f63015c.jar" />
+    </item>
+    <item
+        jar="/home/willy/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.7/7d0f75f98b0283208d76bfd9fefebcc3257ec3bf/library-1.0.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7d0f75f98b0283208d76bfd9fefebcc3257ec3bf">
+        <dex dex="/home/willy/AndroidStudioProjects/android_volley_examples/app/build/intermediates/pre-dexed/debug/library-1.0.7-9254246b0412829a70649b61793d75cb2ca456a3.jar" />
+    </item>
+
+</items>
